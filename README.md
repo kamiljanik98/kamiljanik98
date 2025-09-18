@@ -30,4 +30,3 @@ Skilled in **TypeScript, React, and Next.js**, always exploring new front-end te
 ## 🛠️ Projects
 
 - [MusicHub](https://music-hub-amber.vercel.app/) – upload, share, and listen to music
-- [Y9Storage](https://y9k-storage.vercel.app/) – single-page storage site dedicated to music content
