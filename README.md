@@ -23,5 +23,3 @@ Proficient in **TypeScript**, **React**, and experienced in **Next.js**, creatin
 **Tools:** Docker, Vite, Swagger, phpMyAdmin  
 **Databases:** MySQL, GraphQL  
 **Other:** Figma, Adobe Suite
-
----
