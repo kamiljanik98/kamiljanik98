@@ -4,9 +4,7 @@ Junior Web Developer with 2+ years of experience building **modern, responsive, 
 Skilled in **TypeScript, React, and Next.js**, always exploring new front-end technologies and best practices.
 
 📫 **Email:** [janikkamil1998@gmail.com](mailto:janikkamil1998@gmail.com)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align:middle; fill:#0077B5"/> LinkedIn](https://www.linkedin.com/in/kamil-janik-727885358)
-
----
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="vertical-align:middle"/> LinkedIn](https://www.linkedin.com/in/kamil-janik-727885358)
 
 ## 💻 Skills
 
@@ -29,8 +27,6 @@ Skilled in **TypeScript, React, and Next.js**, always exploring new front-end te
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 ![Adobe Suite](https://img.shields.io/badge/-Adobe%20Suite-FF0000?style=for-the-badge)
-
----
 
 ## 🛠️ Projects
 
