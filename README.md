@@ -1,14 +1,14 @@
 # Hi there 👋
 
-Junior Web Developer with 2+ year of experience building **modern, responsive, and accessible web apps**.  
+Junior Web Developer with 2+ years of experience building **modern, responsive, and accessible web apps**.  
 Skilled in **TypeScript, React, and Next.js**, always exploring new front-end technologies and best practices.
 
 📫 **Email:** [janikkamil1998@gmail.com](mailto:janikkamil1998@gmail.com)  
-🔗 **LinkedIn:** [Kamil Janik](https://www.linkedin.com/in/kamil-janik-727885358)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamil-janik-727885358)
 
 ---
 
-Skills
+## 💻 Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
@@ -32,7 +32,7 @@ Skills
 
 ---
 
-I’m currently building & maintaining:
+## 🛠️ Projects
 
 - [MusicHub](https://music-hub-amber.vercel.app/) – upload, share, and listen to music
-- [Y9Storage](https://y9k-storage.vercel.app/) – single page storage site dedicated for music content.
+- [Y9Storage](https://y9k-storage.vercel.app/) – single-page storage site dedicated to music content
