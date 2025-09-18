@@ -8,7 +8,8 @@ Skilled in **TypeScript, React, and Next.js**, always exploring new front-end te
 
 ---
 
-⚙️ I work daily with:  
+Skills
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
@@ -31,9 +32,7 @@ Skilled in **TypeScript, React, and Next.js**, always exploring new front-end te
 
 ---
 
-🌍 I’m currently building & maintaining:
+I’m currently building & maintaining:
 
 - [MusicHub](https://music-hub-amber.vercel.app/) – upload, share, and listen to music
 - [Y9Storage](https://y9k-storage.vercel.app/) – single page storage site dedicated for music content.
-
-💬 Ping me about **React, Next.js, TypeScript, UI/UX, or music apps**. Always happy to collaborate or share ideas!
