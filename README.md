@@ -34,6 +34,6 @@ Skilled in **TypeScript, React, and Next.js**, always exploring new front-end te
 🌍 I’m currently building & maintaining:
 
 - [MusicHub](https://music-hub-amber.vercel.app/) – upload, share, and listen to music
-- [Y9Storage](https://music-hub-amber.vercel.app/) – custom storage template for dedicated music content.
+- [Y9Storage](https://y9k-storage.vercel.app/) – single page storage site dedicated for music content.
 
 💬 Ping me about **React, Next.js, TypeScript, UI/UX, or music apps**. Always happy to collaborate or share ideas!
