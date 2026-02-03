@@ -1,5 +1,3 @@
-# Hi there 👋
-
 Junior Web Developer with over a year and half of experience building **modern, responsive, and accessible web apps**.  
 Skilled in **TypeScript, React, and Next.js**, always exploring new front-end technologies and best practices.
 
