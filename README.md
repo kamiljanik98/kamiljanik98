@@ -1,4 +1,4 @@
-Junior Fullstack Developer with over a year and half of experience building **modern, responsive, and accessible web apps**.  
+Junior Fullstack Developer with 1.5+ years building web applications 
 Skilled in **TypeScript, React, and Next.js**, with backend work in **Node.js, NestJS, Supabase, and PostgreSQL**.
 
 I speak English and Polish, so feel free to say hi in either one.
