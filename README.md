@@ -1,7 +1,7 @@
-Junior Web Developer with over a year and half of experience building **modern, responsive, and accessible web apps**.  
+Junior Fullstack Developer with over a year and half of experience building **modern, responsive, and accessible web apps**.  
 Skilled in **TypeScript, React, and Next.js**, with backend work in **Node.js, NestJS, Supabase, and PostgreSQL**.
 
-Oh, and I speak English and Polish, so feel free to say hi in either one.
+I speak English and Polish, so feel free to say hi in either one.
 
 **Email:** [janikkamil1998@gmail.com](mailto:janikkamil1998@gmail.com) | **LinkedIn:** [Kamil Janik](https://www.linkedin.com/in/kamil-janik-727885358)
 
